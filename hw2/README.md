@@ -6,6 +6,7 @@
 - Ahsanul Choudhury
 
 ### HW 2 part 1 Ipython notebook:
+Network Analysis of Relationships.ipynb
 https://github.com/data620team3/data620team3/blob/master/hw2/Network%20Analysis%20of%20Relationships.ipynb
 ### HW 2 part 2 Ipython notebook:
 Network Analysis of Relationships.ipynb
