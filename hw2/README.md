@@ -1,5 +1,5 @@
-# data620team3
-## Group 3 Members:
+# data620: Web Analytics
+## Team 3 Members:
 - Rafal Decowski, 
 - Tze Fung Lung, 
 - Yun Mai, 
