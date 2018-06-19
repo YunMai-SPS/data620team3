@@ -5,6 +5,11 @@
 - Yun Mai, 
 - Ahsanul Choudhury
 
+### HW 2 part 1 Ipython notebook:
+Network Analysis of Relationships.ipynb
+### HW 2 part 2 Ipython notebook:
+Network Analysis of Relationships.ipynb
+
 ### HW 2 part 1 video Link:
 https://www.youtube.com/watch?v=267esNAUkc4&t=
 ### HW 2 part 2 video Link:
