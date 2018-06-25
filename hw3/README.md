@@ -13,4 +13,4 @@ https://github.com/data620team3/data620team3/blob/master/hw3/Network%20Analysis%
 https://github.com/data620team3/data620team3/blob/master/hw3/Week_Three-Part_2-Assignment.ipynb
 
 ### Week3 part 2 Assignment video Link:
-
+https://www.youtube.com/watch?v=BD_HrFsnjNk&feature=youtu.be
