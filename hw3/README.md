@@ -10,7 +10,7 @@ https://github.com/data620team3/data620team3/blob/master/hw3/Network%20Analysis%
 ### Project 1 video Link:
 
 ### Week3 part 2 Assignment Ipython notebook:
-
+https://github.com/data620team3/data620team3/blob/master/hw3/Week_Three-Part_2-Assignment.ipynb
 
 ### Week3 part 2 Assignment video Link:
 
