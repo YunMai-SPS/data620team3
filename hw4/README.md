@@ -15,4 +15,4 @@
 
 
 ### Week4 part 2 Assignment video Link:
-
+https://youtu.be/g8GbvC3lJrg
