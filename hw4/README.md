@@ -5,14 +5,14 @@
 - Yun Mai, 
 - Ahsanul Choudhury
 
-### Project 1 Ipython notebook:
+### Project 2 Ipython notebook:
 
 
-### Project 1 video Link:
+### Project 2 video Link:
 
 
-### Week3 part 2 Assignment Ipython notebook:
+### Week4 part 2 Assignment Ipython notebook:
 
 
-### Week3 part 2 Assignment video Link:
+### Week4 part 2 Assignment video Link:
 
