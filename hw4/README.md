@@ -6,7 +6,7 @@
 - Ahsanul Choudhury
 
 ### Project 2 Ipython notebook:
-
+https://github.com/data620team3/data620team3/blob/master/hw4/DATA620_project_2.ipynb
 
 ### Project 2 video Link:
 
