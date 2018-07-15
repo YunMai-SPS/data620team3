@@ -9,7 +9,7 @@
 
 
 ### Project proposal video Link:
-
+https://www.youtube.com/watch?v=DGjEtm3GaDY&feature=youtu.be
 
 ### Final project Ipython notebook:
 
