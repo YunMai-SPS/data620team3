@@ -192,7 +192,7 @@ AINV,positive,5.72
 AMEH,negative,24.04
 APPF,negative,62.95
 APPN,positive,32.73
-AAPL,positive,190.91
+AAPL,negative,190.91
 ARCI,negative,0.7056
 APDN,positive,1.251
 APDNW,positive,0.27
@@ -739,7 +739,7 @@ CORV,positive,3.85
 CRVL,positive,55.9
 CRVS,negative,10.25
 CSGP,negative,427.81
-COST,positive,214.85
+COST,negative,214.85
 CPAH,positive,2.73
 ICBK,negative,26.69
 COUP,positive,65.7
